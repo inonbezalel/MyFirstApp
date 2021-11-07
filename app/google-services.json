@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161030972631",
+    "project_id": "myfirstappi770",
+    "storage_bucket": "myfirstappi770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161030972631:android:7769ee3e96d4a2a4abfc92",
+        "android_client_info": {
+          "package_name": "myfirstapp.Inon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161030972631-9qvhdt9ilhg5u8b5e6nctkdt4fc2jbga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaMGnHHO0VYwpHA9T9qLPcn6-buBlfTcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161030972631-9qvhdt9ilhg5u8b5e6nctkdt4fc2jbga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
